@@ -1,0 +1,15 @@
+Estimado/a {name} {last_name},
+
+Le escribo para informarle que su {product} se encuentra en camino y listo para ser entregado a su domicilio. Este producto fue procesado con éxito y ha pasado por rigurosos controles de calidad, asegurando que cumplimos con nuestras altas expectativas de satisfacción del cliente.
+
+Se entregará en {municipality}, colonia {neighborhood}, en la siguiente dirección: {street}, CP {zip_code}. Además, le proporcionamos el número de guía de rastreo: {tracking_number}, el cual puede utilizar para monitorear el estado de su envío a través de la página web de nuestra empresa de paquetería asociada.
+
+Para hacer efectiva la entrega, por favor, presente una identificación oficial con fotografía y el número de orden de compra que le fue proporcionado al momento de la adquisición del {product}. En caso de que no pueda recibir personalmente el paquete, es posible autorizar a otra persona presentando una carta poder simple y copias de las identificaciones oficiales de ambos.
+
+Nos pondremos en contacto con usted al teléfono {phone} o al correo electrónico {email} para coordinar una hora de entrega y así evitar demoras innecesarias. Si tiene alguna preferencia de horario, por favor no dude en comunicárnoslo.
+
+También queremos recordarle que cuenta con {warranty_days} días de garantía en caso de presentar cualquier inconveniente o defecto de fábrica en su {product}. Si necesita asistencia técnica o tiene alguna pregunta sobre el funcionamiento del {product}, puede comunicarse con nuestro equipo de soporte al {support_phone} o escribirnos a {support_email}.
+
+Agradecemos su preferencia y quedamos a su disposición para cualquier duda o aclaración. Esperamos que disfrute de su {product} y que este cumpla con sus expectativas.
+
+Atentamente, {company}.
